@@ -1,4 +1,4 @@
-Questo repository contiene la documentazione relativa al progetto Unblended per l'hackathon Made in Italy IPZS.
+**Questo repository contiene la documentazione relativa al progetto Unblended per l'hackathon Made in Italy IPZS.**
 
 La cartella hackathon contiene la documentazione di partecipazione.
 
