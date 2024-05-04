@@ -1,4 +1,4 @@
-Documentazione relativa allo stato attuale di sviluppo di Unblended
+**Documentazione relativa allo stato attuale di sviluppo di Unblended**
 
   1) Relazione su sviluppo smart contract
 
