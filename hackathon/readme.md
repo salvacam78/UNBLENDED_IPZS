@@ -2,4 +2,4 @@
 
 1) Presentazione del Progetto
 
-2) Link video Pitch (presentazione sintetica)
+2) Link video Pitch (presentazione sintetica): https://drive.google.com/file/d/18_x-Fewg00NK0gPPsEPm-quswQubEZXd/view?usp=sharing
