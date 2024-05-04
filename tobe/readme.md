@@ -1,4 +1,4 @@
-*In questa cartella sono presenti documenti di supporto alla soluzione innovativa proposta:*
+**In questa cartella sono presenti documenti di supporto alla soluzione innovativa proposta:**
 
 1) Parere legale pegno rotativo
 
